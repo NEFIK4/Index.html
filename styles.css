@@ -1,0 +1,54 @@
+.hr {
+    color: rgb(0, 0, 0);
+}
+
+.pravo {
+    margin: 0;
+    color: rgb(80, 79, 77);
+}
+
+/*  */
+
+img {
+    max-width: 100px;
+}
+
+.Visa {
+    max-width: 90px;
+}
+
+.Mastercard {
+    max-width: 50px;
+}
+
+.ApplePay {
+    max-width: 90px;
+}
+
+.GooglePay {
+    max-width: 90px;
+}
+
+.System {
+    text-align: center;
+}
+
+/*  */
+
+.Technicalwork {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+.Technicalwork2 {
+    margin: 0;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
